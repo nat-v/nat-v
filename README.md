@@ -4,6 +4,10 @@
 
 ### I'm an aspiring developer focused on web dev in general, ReactJS and Node.js in particular 👩‍💻
 
+---
+
+<img align="left" alt="nat-v's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nat-v" />
+
 <!--
 **nat-v/nat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
