@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello, World! 🙌🌍
+
+### I'm Nataliia aka Natasha aka Natali 🦊
+
+### I'm an aspiring developer focused on web dev in general, ReactJS and Node.js in particular 👩‍💻
 
 <!--
 **nat-v/nat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
