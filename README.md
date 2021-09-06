@@ -6,7 +6,7 @@
 
 ---
 
-<img align="left" alt="nat-v's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nat-v&theme=dracula" />
+<img align="left" alt="nat-v's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nat-v&theme=dracula&show_icons=true&hide_border=true" />
 
 <!--
 **nat-v/nat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
