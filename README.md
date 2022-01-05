@@ -1,8 +1,5 @@
 ## Hello, World! 🙌🌍
 
-### I'm Nataliia aka Natasha aka Natali 🦊
-
-### I'm an aspiring developer focused on web dev in general, ReactJS and Node.js in particular 👩‍💻
 
 ---
 
