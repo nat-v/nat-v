@@ -1,6 +1,4 @@
-## Hello, World! 🙌🌍
-
-<img align="left" alt="nat-v's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nat-v&theme=dracula&show_icons=true&hide_border=true" />
+## Hello, World! 🙌 🌍
 
 <!--
 **nat-v/nat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
